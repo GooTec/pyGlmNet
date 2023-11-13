@@ -26,7 +26,7 @@ Quickstart guide and examples are provided in the documentation to help you get 
 
 Contributions to pyGlmNet are welcome! Please read our contributing guidelines to learn about how you can contribute to this project.
 
-Citation:
+### Citation:
 
 If you use pyGlmNet in your research, please cite the original glmnet R package papers:
 
@@ -34,7 +34,8 @@ Friedman, J., Hastie, T., and Tibshirani, R. (2010)
 Simon, N. et al. (2011)
 Tibshirani, R. et al. (2012)
 Simon, N., Friedman, J., and Hastie, T. (2013)
-License:
+
+### License:
 
 pyGlmNet is open-source and licensed under the MIT License.
 
